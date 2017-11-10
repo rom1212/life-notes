@@ -25,7 +25,7 @@ Directory | Photos | Email
 2008-06-11-Tahoe                 | x | -
 2008-06-14                       | needs verification | -
 2008-06-29-tahoe                 | x | -
-2008-08-31                       | - | -
+2008-08-31                       | x (album not created) | -
 2008-09-17-children-discovery    | - | -
 2008-09-20                       | - | -
 2008-09-21                       | - | -
