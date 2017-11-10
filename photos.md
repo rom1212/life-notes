@@ -1,6 +1,9 @@
 # Tools
-* ls | awk '{print $1 "\t\t\t | - | - "}'
-* vim
+* find all the directory names and format in markdown table format
+  * ls | awk '{print $1 "\t\t\t | - | - "}'
+  * vim
+* google photos "Added Today"
+  * https://photos.google.com/search/_tra_
 
 # 2008
 Directory | Photos | Email
