@@ -20,7 +20,7 @@ Directory | Photos | Email
 2008-05-26-Z1275                 | x | -
 2008-06-08                       | x | -
 2008-06-11-Tahoe                 | x | -
-2008-06-14                       | - | -
+2008-06-14                       | needs verification | -
 2008-06-29-tahoe                 | x | -
 2008-08-31                       | - | -
 2008-09-17-children-discovery    | - | -
