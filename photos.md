@@ -27,7 +27,7 @@ Directory | Photos | Email
 2008-06-29-tahoe                 | x | -
 2008-08-31                       | x (album not created) | -
 2008-09-17-children-discovery    | x (album not created) | -
-2008-09-20                       | - | -
+2008-09-20                       | x | -
 2008-09-21                       | - | -
 2008-09-28                       | - | -
 2008-10-01                       | - | -
