@@ -4,6 +4,9 @@
   * vim
 * google photos "Added Today"
   * https://photos.google.com/search/_tra_
+* all the files
+  * find . -type f > media.txt
+
 # 2007
 Directory | Photos | Email
 ---       | ---    | ---
