@@ -5,7 +5,8 @@
 * google photos "Added Today"
   * https://photos.google.com/search/_tra_
 * all the files
-  * find . -type f > media.txt
+  * find . -type f | sort -fd > media.txt
+  * find . -type d | sort -fd > media.txt
 
 # 2007
 Directory | Photos | Email
