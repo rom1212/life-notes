@@ -7,3 +7,5 @@
 * https://del.wa.gov/Attendance-support
 * Get started
   * https://del.wa.gov/sites/default/files/public/Partnerships/Tribal/Resources/ElectronicAttendanceSystemChecklist.pdf
+* Kinder Connect
+  * https://www.electronicattendancewa.com/kc/NonActivityPages/Login.aspx?wsid=0
