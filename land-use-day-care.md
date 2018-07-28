@@ -3,11 +3,11 @@
   * http://www.codepublishing.com/WA/Bellevue/LUC/BellevueLUC2020.html#20.20.170
 * Child Day Care Center
   * http://www.codepublishing.com/WA/Bellevue/LUC/BellevueLUC2010.html#20.10.440
+  * https://bellevue.municipal.codes/LUC/20.10.440
   ```
   R-10 R-15 R-20 R-30
    C    C    P    P
   ```
-  * https://bellevue.municipal.codes/LUC/20.10.440
   ```
   P – PERMITTED USE
   C – CONDITIONAL USE (see Part 20.30B or Part 20.30C)
