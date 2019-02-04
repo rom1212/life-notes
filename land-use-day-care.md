@@ -20,7 +20,13 @@
   A – ADMINISTRATIVE CONDITIONAL USE (see Part 20.30E)
   S – Permitted only as a subordinate use to a permitted or special use
   ```
-
+  * BelRed
+  https://bellevue.municipal.codes/LUC/20.25D.070
+  ```
+  BR-MO/MO-1, BR-OR/OR-1 OR-2, BR-RC-1 RC-2 RC-3, BR-R, BR-GC, BR-CR, BR-ORT
+  P/P       , P/P            ,                 P,    A1,    P,     P
+  ```
+  
 * https://development.bellevuewa.gov/zoning-and-land-use
   * [ZONING MAP](http://cobgis.maps.arcgis.com/apps/webappviewer/index.html?id=ff2f7a57a0b0438a80b48a7dffb519c0)
   
