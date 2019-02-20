@@ -20,3 +20,6 @@ http://blog.sina.com.cn/s/blog_141e7c7db0102wkbd.html
 对比方程组（1）与（2），得3/5x=3,2/5y=4，
 解得x=5,y=10。
 ```
+
+* 
+https://www.xzbu.com/9/view-830334.htm
