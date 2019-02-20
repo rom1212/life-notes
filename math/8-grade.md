@@ -21,4 +21,4 @@
 ```
 
 ## 初中数学妙题巧解探究
-* http://search.sina.com.cn/?q=%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%A6%99%E9%A2%98%E5%B7%A7%E8%A7%A3&ie=utf-8&e=utf-8&range=article&t=&s=sup&by=all&type=&stype=1&c=blog
+* http://blog.sina.com.cn/s/blog_6536477f0102y0yr.html, and then search for "初中数学妙题巧解"
