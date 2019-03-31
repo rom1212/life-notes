@@ -1,5 +1,7 @@
-# Junior Ranking
-* https://www.teamusa.org/usa-badminton/rankings/usab-junior-rankings
+# Junior Ranking Related
+* Ranking: https://www.teamusa.org/usa-badminton/rankings/usab-junior-rankings
+  * US Junior Ranking Procedure (click)
+  * US Junior Ranking Tournaments (click)
 
 # Events
 ## USA Badminton Events 
