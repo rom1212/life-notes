@@ -4,6 +4,7 @@
   * US Junior Ranking Tournaments (click)
 * Coaching
   * https://www.teamusa.org/USA-Badminton/Athletes/Juniors/Coaching-at-Junior-Events
+  * https://www.teamusa.org/USA-Badminton/Coaching/CDP/SP1Task
 
 # Events
 ## USA Badminton Events 
