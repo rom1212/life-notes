@@ -18,4 +18,6 @@
 * [2019 Oregon Badminton Academy OPEN LOCAL CHAMPIONSHIPS](https://www.tournamentsoftware.com/sport/tournament.aspx?id=3A2DFC04-9FF6-4A5A-9D95-8B53F0E0B25B)
 
 # Clubs
+## BBC
+* http://www.bellevuebadminton.com/junior-group-classes/ and schedules
 * http://www.bellevuebadminton.com/classes/junior-program-registration-form/
