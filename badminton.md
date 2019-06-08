@@ -11,6 +11,7 @@
     * https://www.teamusa.org/usa-badminton/resources/safe-sports-program
       * [Safe Sport Policy](http://www.teamusa.org/-/media/USA_Badminton/Documents/Safe-Sports/USAB-SafeSportPolicy020918Final.pdf)
     * [How To Take Safe Sport Training](https://www.teamusa.org/USA-Badminton/Invisible/1014/SafeSportSubLink/SafeSportTraining)
+    * code of conduct: https://www.teamusa.org/USA-Badminton/USAB/Policies-and-Procedures
 
 
 # Events
