@@ -3,12 +3,15 @@
   * US Junior Ranking Procedure (click)
   * US Junior Ranking Tournaments (click)
 * Coaching
-  * https://www.teamusa.org/USA-Badminton/Athletes/Juniors/Coaching-at-Junior-Events
+  * Coaching pass application
+    * https://www.teamusa.org/USA-Badminton/Athletes/Juniors/Coaching-at-Junior-Events
+    * test:
+      * https://www.teamusa.org/USA-Badminton/Coaching/CDP/SP1Task
   * safe sport training
     * https://www.teamusa.org/usa-badminton/resources/safe-sports-program
       * [Safe Sport Policy](http://www.teamusa.org/-/media/USA_Badminton/Documents/Safe-Sports/USAB-SafeSportPolicy020918Final.pdf)
     * [How To Take Safe Sport Training](https://www.teamusa.org/USA-Badminton/Invisible/1014/SafeSportSubLink/SafeSportTraining)
-  * https://www.teamusa.org/USA-Badminton/Coaching/CDP/SP1Task
+
 
 # Events
 ## USA Badminton Events 
