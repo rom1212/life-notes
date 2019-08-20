@@ -29,7 +29,9 @@
   
 * https://development.bellevuewa.gov/zoning-and-land-use
   * [ZONING MAP](http://cobgis.maps.arcgis.com/apps/webappviewer/index.html?id=ff2f7a57a0b0438a80b48a7dffb519c0)
-  
+
+* [Transportation Design Manual](https://bellevuewa.gov/city-government/departments/transportation/permits-and-standards/transportation-design-manual)
+
 # king county parcel viewer
 * https://gismaps.kingcounty.gov/parcelviewer2/
   * can also check zoning on parcel viewer: Property Report (link) -> Property Detail (tab) -> LAND DATA (session) -> Zoning
