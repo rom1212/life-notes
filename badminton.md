@@ -20,7 +20,7 @@
 
 ## 2019
 * 08/31 to 09/02	2019 [YONEX Harbour Pointe OPEN REGIONAL CHAMPIONSHIPS](http://www.tournamentsoftware.com/sport/draws.aspx?id=37ED852B-8851-4E29-9514-ECDF4599519A)
-* 06/27 to 07/02	2019 [YONEX JUNIOR NATIONAL CHAMPIONSHIPS](http://www.tournamentsoftware.com/sport/tournament?id=783BD81E-86E7-432F-9604-8B1D73ED4740)
+* 06/27 to 07/02	2019 [YONEX JUNIOR NATIONAL CHAMPIONSHIPS](http://www.tournamentsoftware.com/sport/draws.aspx?id=783BD81E-86E7-432F-9604-8B1D73ED4740)
 * 03/30 to 03/31	2019 Harbour Pointe OPEN LOCAL CHAMPIONSHIPS
 * 03/22 to 03/24	2019 WA Closed
 * 02/16 to 02/18	2019 Northwest OPEN REGIONAL CHAMPIONSHIPS
