@@ -24,7 +24,7 @@
 * 03/30 to 03/31	2019 Harbour Pointe OPEN LOCAL CHAMPIONSHIPS
 * 03/22 to 03/24	2019 WA Closed
 * 02/16 to 02/18	2019 Northwest OPEN REGIONAL CHAMPIONSHIPS
-* 01/26 to 01/27	2019 (Oregon Badminton Academy OPEN LOCAL CHAMPIONSHIPS)(https://www.tournamentsoftware.com/sport/tournament.aspx?id=3A2DFC04-9FF6-4A5A-9D95-8B53F0E0B25B)
+* 01/26 to 01/27	2019 [Oregon Badminton Academy OPEN LOCAL CHAMPIONSHIPS](https://www.tournamentsoftware.com/sport/tournament.aspx?id=3A2DFC04-9FF6-4A5A-9D95-8B53F0E0B25B)
 
 # Clubs
 ## BBC
