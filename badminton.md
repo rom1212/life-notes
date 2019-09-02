@@ -19,8 +19,12 @@
 * https://www.teamusa.org/usa-badminton/events
 
 ## 2019
-* [2019 Oregon Badminton Academy OPEN LOCAL CHAMPIONSHIPS](https://www.tournamentsoftware.com/sport/tournament.aspx?id=3A2DFC04-9FF6-4A5A-9D95-8B53F0E0B25B)
-* [2019-8.31 YONEX Harbour Pointe OPEN REGIONAL CHAMPIONSHIPS](http://www.tournamentsoftware.com/sport/draws.aspx?id=37ED852B-8851-4E29-9514-ECDF4599519A)
+* 08/31 to 09/02	2019 [YONEX Harbour Pointe OPEN REGIONAL CHAMPIONSHIPS](http://www.tournamentsoftware.com/sport/draws.aspx?id=37ED852B-8851-4E29-9514-ECDF4599519A)
+* 06/27 to 07/02	2019 YONEX JUNIOR NATIONAL CHAMPIONSHIPS
+* 03/30 to 03/31	2019 Harbour Pointe OPEN LOCAL CHAMPIONSHIPS
+* 03/22 to 03/24	2019 WA Closed
+* 02/16 to 02/18	2019 Northwest OPEN REGIONAL CHAMPIONSHIPS
+* 01/26 to 01/27	2019 (Oregon Badminton Academy OPEN LOCAL CHAMPIONSHIPS)(https://www.tournamentsoftware.com/sport/tournament.aspx?id=3A2DFC04-9FF6-4A5A-9D95-8B53F0E0B25B)
 
 # Clubs
 ## BBC
