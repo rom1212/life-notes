@@ -20,6 +20,7 @@
 
 ## 2019
 * [2019 Oregon Badminton Academy OPEN LOCAL CHAMPIONSHIPS](https://www.tournamentsoftware.com/sport/tournament.aspx?id=3A2DFC04-9FF6-4A5A-9D95-8B53F0E0B25B)
+* [2019-8.31 YONEX Harbour Pointe OPEN REGIONAL CHAMPIONSHIPS](http://www.tournamentsoftware.com/sport/draws.aspx?id=37ED852B-8851-4E29-9514-ECDF4599519A)
 
 # Clubs
 ## BBC
